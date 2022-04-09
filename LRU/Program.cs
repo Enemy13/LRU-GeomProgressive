@@ -38,6 +38,7 @@ namespace LRU
             }
             Console.WriteLine("Hello World!");
             Console.WriteLine("!--------------------");
+            Console.WriteLine("Геометрическая прогрессия");
             Console.WriteLine(SumGeometricProgression(2, 2, 4));
 
         }
